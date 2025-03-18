@@ -213,7 +213,3 @@ This project is licensed under the **MIT License**.
 
 ## 🌟 **Show Some Love**
 If you found this helpful, please ⭐ this repository!
-
----
-
-This README is structured to give a clean, professional, and organized impression to recruiters and visitors. Let me know if you'd like to tweak anything! 😎
